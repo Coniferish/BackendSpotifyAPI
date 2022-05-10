@@ -1,2 +1,2 @@
-# Frontend Spotify API Project
+# Backend Spotify API Project
 web app leveraging Spotify api
